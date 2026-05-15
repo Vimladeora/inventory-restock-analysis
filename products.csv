@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Milk,Dairy,50
+102,Bread,Bakery,30
+103,Eggs,Poultry,70
+104,Butter,Dairy,120
+105,Juice,Beverages,90
+106,Cheese,Dairy,200
+107,Rice,Grocery,60
+108,Oil,Grocery,150
+109,Yogurt,Dairy,40
+110,Cookies,Snacks,80
